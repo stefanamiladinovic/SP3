@@ -26,8 +26,8 @@ string userAgent = "This is a system programming app used for fetching all comme
 string redirectUri = listeningPort;
 
 // for access token
-string clientId = "UrAT6ur2fuEOpaXyimMePA"; 
-string clientSecret = "JPmoIXPn_oCXasjXwp0j5UAV6SN5PQ";
+string clientId = ""; 
+string clientSecret = "";
 RedditToken token = new RedditToken();
 DateTime? expirationTime = null;
 
